@@ -26,3 +26,4 @@ Here is the accompanying publication: https://doi.org/10.48550/arXiv.2607.17799
 Olivier Rukundo, Ph.D.  
 Department of Electronic and Computer Engineering  
 University of Limerick, Ireland
+E-mail: olivier.rukundo@ul.ie
